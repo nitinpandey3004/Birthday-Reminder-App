@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_setting_head"
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:text="Setting head"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="30dp"/>
+
+        <TextView
+            android:id="@+id/tv_setting_body"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Setting body"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </LinearLayout>
+
+</RelativeLayout>
