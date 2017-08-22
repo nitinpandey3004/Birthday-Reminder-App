@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_c7803a0ac030293c289b24f7abccf6766d9afd4e\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_c91f7e81f6348ca5026335c9fc6b391d9a675342\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_4def6f0b727c1416c1fb7df7b6966f6d41731aa1\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="31b2e67054955666084fc2db790c1e091f2534c4">
+        <dex dex="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d645fa045a7d4c945620c1a062876d646412fa38\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_f0f85730af45140a6ac66666ff3735070e43c123\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_8d24b20c7281cf8452e1787dc55c0fb0c42e82a1\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_1e0ba0b18cfcb6253607ffaa2888d9516ce67df0\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_f0d14c241cc283cc51dd85bd8725ca41b1ba4427\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_f85a794076e1b11cdaa5a6c907e5a918750d2209\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="06a075308ecce1369777146b9794a06dd7e555a0">
+        <dex dex="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1d6d2e507f4748d32d7bd0b29a9c1d368c1cecbb\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_1f42c5b81d3a446516c555c390fc697ad37c2988\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nitin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_22bac3e72644e6c510c48fa12fb9794bfbefec31\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_c81a638ec94f7f267eb99b8fbac1411ac72e9447\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_582a60f30e8a73fef07d064769c28153ea7c65d9\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\Android pro\mcc\BirthdayRemainder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_12c899809667c140c46b38a4b625ecdfa0a1d665\classes.dex" />
+    </item>
+
+</items>
